@@ -1,4 +1,4 @@
-button{
+.header-btn{
     background-color: transparent;
     border-color: transparent;
 }
@@ -7,11 +7,24 @@ button{
     border-color: transparent;
     border-radius: 20%;
     background-color: antiquewhite;
-    width: 20%;
+    width: 20px;
 }
 
 .title{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-style: italic;
     font-size: larger;
+}
+
+.sidebar{
+    background-color: azure;
+}
+.side_button{
+border-color: black;
+background-color: transparent;
+width: 30px;
+}
+
+.categories{
+    border-color: black;
 }
