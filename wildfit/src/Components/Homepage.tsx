@@ -19,29 +19,8 @@ function Homepage() {
                 </div>
             </div>
 
-            {/* footer */}
-
-
-            {/* to be moved */}
             <div className="body d-flex container-fluid">
 
-                {/* sideBr */}
-                <div className="sidebar col-2 row justify-content-start d-inline me-5">
-
-                    <div className="side_button row justify-content-start p-2- m-2">
-
-                        <div className="categories">
-                            <h3>Categories</h3>
-                        </div>
-
-                        <a className="side_button">New</a>
-                        <a className="side_button">Best Sellers</a>
-                        <a className="side_button">Hoodies</a>
-
-                    </div>
-
-                </div>
-                {/* content */}
                 <div className="col-10 row p-3 m-auto content">
                     <div className="d-flex justify-content-around border border-5 ">
                         
