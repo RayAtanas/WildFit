@@ -20,3 +20,6 @@ height: 50px;
     border-color: transparent;
     font-family: 'Courier New', Courier, monospace;
 }
+.panel{
+    background-color: #46a295;
+}
