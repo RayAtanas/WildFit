@@ -1,0 +1,22 @@
+.logo{
+
+width: 85px;
+height: 50px;
+
+}
+
+.link{
+    background-color: transparent;
+    color: #303c4e;
+    text-decoration: none;
+    margin: auto;
+}
+
+.Sign_in{
+    
+    background-color:#f0f0f0;
+    color: #303c4e;
+    border-radius: 20px;
+    border-color: transparent;
+    font-family: 'Courier New', Courier, monospace;
+}
